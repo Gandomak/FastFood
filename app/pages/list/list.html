@@ -1,0 +1,19 @@
+<ActionBar title="Grid burger" class="action-bar" backgroundcolor="salmon">
+       </ActionBar>
+  <GridLayout class="background">
+     <StackLayout>
+       <ListView [items]="fastfoods" class="list-group"  margin-top="100" >
+            <template let-fastfood="item" let-i="index" let-odd="odd" let-even="even">
+               <GridLayout rows="auto,*"  columns="auto,*" margin="5" >
+       <button text="ثبت" col="0"  margin="20" font-weight="bold"  backgroundcolor="salmon" ></button>
+       <textField  [hint]="fastfoods.name" col="1" colSpan="2"  horizontalAlignment="right" verticalAlignment="center" margin="5" ></textField>
+  </GridLayout>
+            </template>
+        </ListView>
+
+
+
+
+
+     </StackLayout>
+  </GridLayout>

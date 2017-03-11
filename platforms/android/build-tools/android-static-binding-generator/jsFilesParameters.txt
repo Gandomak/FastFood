@@ -1,0 +1,1 @@
+/home/gandom/Documents/AngularNS/class/groceries2/Groceries/platforms/android/src/main/assets/app/app.component.js

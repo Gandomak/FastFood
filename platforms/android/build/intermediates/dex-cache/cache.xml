@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/gandom/Documents/AngularNS/class/groceries2/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/gandom/Documents/AngularNS/class/groceries2/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-23.4.0_7238b32d9de77342cb3b628925cdd232fdf1e005.jar" />
+    </item>
+    <item
+        jar="/home/gandom/Documents/AngularNS/class/groceries2/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/gandom/Documents/AngularNS/class/groceries2/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-design-23.4.0_d3d837c6284646146d2b98b41f47a56801459bdc.jar" />
+    </item>
+    <item
+        jar="/home/gandom/Documents/AngularNS/class/groceries2/Groceries/platforms/android/build/intermediates/exploded-aar/Groceries/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="632bf39700c28ba66c117628dab343126ef89551">
+        <dex dex="/home/gandom/Documents/AngularNS/class/groceries2/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/Groceries-runtime-unspecified_cbc6b74e27fc9961188e63479a4bd3ea9b766012.jar" />
+    </item>
+    <item
+        jar="/home/gandom/Documents/AngularNS/class/groceries2/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/gandom/Documents/AngularNS/class/groceries2/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-animated-vector-drawable-23.4.0_318377f0fadc55efc5630cc497398f1a13ad6860.jar" />
+    </item>
+    <item
+        jar="/home/gandom/Documents/AngularNS/class/groceries2/Groceries/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="8a73b09319cc3945912970487ced4c7724acc97d">
+        <dex dex="/home/gandom/Documents/AngularNS/class/groceries2/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_9b0b20da3457b965b406afb310f52bdb6f5ee0f5.jar" />
+    </item>
+    <item
+        jar="/home/gandom/Documents/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/gandom/Documents/AngularNS/class/groceries2/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/support-annotations-23.4.0_98252f6be4d6ae2ecdb000b4c1f5d5b359be8ff2.jar" />
+    </item>
+    <item
+        jar="/home/gandom/Documents/AngularNS/class/groceries2/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/gandom/Documents/AngularNS/class/groceries2/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-23.4.0_5cfccb6aaab50b56e0b6783adcbc1b3831b61eb5.jar" />
+    </item>
+    <item
+        jar="/home/gandom/Documents/AngularNS/class/groceries2/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/gandom/Documents/AngularNS/class/groceries2/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-v4-23.4.0_30690da4ac3f9c14ac52b7973734e5c414671ea5.jar" />
+    </item>
+    <item
+        jar="/home/gandom/Documents/AngularNS/class/groceries2/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/gandom/Documents/AngularNS/class/groceries2/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-23.4.0_00209d40bb339e0ddae7408a7f6a600422924085.jar" />
+    </item>
+    <item
+        jar="/home/gandom/Documents/AngularNS/class/groceries2/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/gandom/Documents/AngularNS/class/groceries2/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-recyclerview-v7-23.4.0_e7dc56cc034a91c53229da26a74060997fd15268.jar" />
+    </item>
+    <item
+        jar="/home/gandom/Documents/AngularNS/class/groceries2/Groceries/platforms/android/build/intermediates/exploded-aar/Groceries/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d82f3ca98719f09b65db6aeaf450ad3bafc46e81">
+        <dex dex="/home/gandom/Documents/AngularNS/class/groceries2/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/binding-generator_48178ffd7fa082db7097bf63331fdf450636bbc1.jar" />
+    </item>
+
+</items>

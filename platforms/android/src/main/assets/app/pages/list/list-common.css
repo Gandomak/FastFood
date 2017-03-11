@@ -1,0 +1,26 @@
+.add-bar {
+  background-color: #CB1D00;
+  padding: 5 10;
+}
+.add-bar Image {
+  height: 15;
+  vertical-align: center;
+  margin-left: 10;
+  margin-right: 5;
+}
+TextField {
+  color: white;
+}
+.background {
+  background-image: url("res://bg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+ListView
+{
+margin-top: 50;
+margin-left: 10;
+margin-right: 10;
+margin-bottom: 50
+}

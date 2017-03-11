@@ -1,0 +1,39 @@
+<ActionBar title="Grid burger" class="action-bar" backgroundcolor="salmon">
+      <StackLayout orientation="horizontal"
+    ios:horizontalAlignment="center"
+    android:horizontalAlignment="right" >
+  
+    <Label text="پنل مدیریت"   margin="5" (tap)="submit()"></Label>
+  </StackLayout>
+</ActionBar>
+<GridLayout #background
+    scaleX="1.4"
+    scaleY="1.4"
+    class="background"
+    (loaded)="startBackgroundAnimation(background)">
+    <StackLayout  width="300" height="450"  class="main-container"
+    #secondbackground
+    scaleX="0.2"
+    scaleY="0.2"
+    class="secondbackground"
+    (loaded)="startBackgroundAnimation(secondbackground)" >
+  <GridLayout rows="auto *" columns="*">
+      
+       
+        <!-- >> listview-create-html -->
+        <ListView [items]="countries" class="list-group" row="1" rowSpan="2" margin="5" >
+            <template let-country="item" let-i="index" let-odd="odd" let-even="even">
+               <GridLayout rows="auto,*"  columns="*,auto" margin="5" >
+       <Label [text]="country.name" col="0"  horizontalAlignment="right" verticalAlignment="center" margin="10" font-weight="bold" ></Label>
+       <Image   col="1" rowSpan="1"  class="thumb img-circle"  [src]="country.imageSource" width="100" height="100"></Image>
+  </GridLayout>
+            </template>
+        </ListView>
+        <!-- << listview-create-html -->
+    
+    </GridLayout>
+    </StackLayout>
+    </GridLayout>
+
+ 
+

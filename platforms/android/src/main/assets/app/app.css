@@ -1,0 +1,19 @@
+.background {
+  background-image: url("res://bg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.main-container {
+  margin-left: 30;
+  margin-right: 30;
+  margin-top: 50;
+  margin: 50;
+  background-color: white;
+}
+.secondbackground {
+  background-color: white;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}

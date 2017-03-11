@@ -1,0 +1,10 @@
+<GridLayout class="background">
+<StackLayout >
+   
+      <TextField hint="Username"  [(ngModel)]="Username"
+        autocorrect="false" autocapitalizationType="none" class="nameField"></TextField>
+      <TextField hint="Password" secure="true" class="passField" [(ngModel)]="Password"></TextField>
+
+      <Button text="login" class="submit-button" (tap)="submit()"></Button>
+    </StackLayout>
+</GridLayout>
